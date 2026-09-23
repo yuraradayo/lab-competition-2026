@@ -40,7 +40,7 @@ constexpr double W_ROUTE = 0.15;
 // ============================================================
 // GA のハイパーパラメータ
 // ============================================================
-constexpr int    POP_SIZE        = 200;   // 個体数
+constexpr int    POP_SIZE        =200;   // 個体数
 constexpr int    N_GEN           = 100;   // 世代数
 constexpr double PROB_BIT        = 0.02;  // 選択パートのビット反転確率
 constexpr double PROB_SWAP       = 0.10;  // 順序パートのスワップ確率
